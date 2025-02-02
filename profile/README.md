@@ -1,12 +1,5 @@
-## Hi there 👋
-This is Overview Page for Nodes Automations
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Hello 👋. My name is Vivek Patel. I am structural engineer with passion for Automation and Programming. My Company Nodes Automations focused on software automation for civil engineers.
+We Create Custom Software tools to simplify the work of civil engineers and Structural Engineers. for example,
+- CAD drawing generation or Data extraction or update existing data.
+- FEM model generation, Results extraction.
+- Excel, Word, PowerPoint automation for report generation or data extraction.
